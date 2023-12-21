@@ -4,7 +4,7 @@ public class Spieler {
 
     public Spieler(String name) {
         this.name = name;
-        this.gewuerfelteAugenzahl = 0; // Standardmäßig auf 0 setzen, da noch nicht gewürfelt wurde
+        this.gewuerfelteAugenzahl = 0; //0 da noch nicht gewuerfelt ist
     }
 
     public int getZahl() {
